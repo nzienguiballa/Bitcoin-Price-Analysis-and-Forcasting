@@ -11,3 +11,5 @@ We have also pictured the average opening price, average closing price, average 
 We have analysed the trends of the average highest price compared to the average volume of Bitcoin
 
 Finally we have analysed the trend of the closing price of the Bitcoin over monthly over the years, then forcasted for 6 months
+
+The source of our data is yahoo-Finance.
